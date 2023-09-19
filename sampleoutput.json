@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 19 février",
+            "description": "Retrouvez l'essentiel de l'actualité sportive avec votre Flash L'Équipe quotidien.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-19-fevrier/1381609",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001751109/0:0,1997:1331-640-427-75/40e63.jpg",
+            "publishedAt": "2023-02-19T07:14:52+00:00",
+            "content": "Le PSG reçoit Lille ce dimanche sous haute tension en L1... Le nouvel entraîneur strasbourgeois Frédéric Antonetti réussit son baptême du feu... Le relais masculin tricolore de biathlon crée un grand… [+181 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Team Canada's catamaran sail badly damaged as winds cause havoc at Australia Sail Grand Prix | CBC Sports",
+            "description": "Team Canada's catamaran wing sail was badly damaged on Saturday when it was hit by a gust of wind and blown into a canvas shelter while being lifted by a crane at the Australia Sail Grand Prix in Sydney.",
+            "url": "http://www.cbc.ca/sports/olympics/summer/sailing/team-canada-sail-badly-damaged-winds-cause-havoc-australia-sailgp-1.6753566",
+            "urlToImage": "https://i.cbc.ca/1.6753583.1676762219!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1467238018.jpg",
+            "publishedAt": "2023-02-18T23:37:17.0050123Z",
+            "content": "Team Canada's catamaran wing sail was badly damaged on Saturday when it was hit by a gust of wind and blown into a canvas shelter while being lifted by a crane at the Australia Sail Grand Prix in Syd… [+3306 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " NBA All-Star Mock Draft ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/370942-nba-allstar-mock-draft",
+            "urlToImage": null,
+            "publishedAt": "2023-02-18T17:07:14.8640643Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hannah Towey",
+            "title": "Wealthy Americans racing to buy Malta's 'golden passport,' last in EU",
+            "description": "For the first time, Americans are applying for \"golden passports\" more than any other nationality, according to Henley & Partners' USA wealth report.",
+            "url": "http://www.businessinsider.com/golden-visa-passport-malta-citizenship-by-investment-wealthy-americans-europe-2023-2",
+            "urlToImage": "https://i.insider.com/63efcdf8ce4074001943447e?width=1200&format=jpeg",
+            "publishedAt": "2023-02-17T19:02:59Z",
+            "content": "For some ultra-wealthy individuals, the most powerful asset money can buy isn't a superyacht or private jet it's a passport. \r\n\"Golden passports,\" formally known as citizenship by investment programs… [+4443 chars]"
+        }
+    ]
+}
