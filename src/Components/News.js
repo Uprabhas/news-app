@@ -111,7 +111,7 @@ export class News extends Component {
 
     return (
       <>
-          <div className="container main" style={{backgroundColor:'bisque'}}>
+          <div className="container main" style={{backgroundColor:'#f6f5f5'}}>
           <center className='my-4'><h2>News shorts-{(this.props.category)}</h2></center>
           <hr />
           {this.state.loading && <Spinner />}
